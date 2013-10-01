@@ -1,6 +1,6 @@
 # url64
 
-url64 is a library to generate really unique url friendly ID based on UUID
+url64 is a library to generate really unique and url friendly IDs based on UUID
 
 ## Usage
 
