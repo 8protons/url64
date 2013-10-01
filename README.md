@@ -9,6 +9,12 @@ user=> (url64.core/generate-id)
 "U7PVVMkSSJGepn8RKilg-A"
 ```
 
+leiningen:
+
+```
+[url64 "1.0.0-SNAPSHOT"]
+```
+
 ## License
 
 Copyright © 2013 8protons (developed by Anthony Sekatski)
