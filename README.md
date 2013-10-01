@@ -4,8 +4,10 @@ url64 is a library to generate really unique url friendly ID based on UUID
 
 ## Usage
 
-   user=> (url64.core/generate-id)
-   "U7PVVMkSSJGepn8RKilg-A"
+```
+user=> (url64.core/generate-id)
+"U7PVVMkSSJGepn8RKilg-A"
+```
 
 ## License
 
