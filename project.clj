@@ -1,4 +1,4 @@
-(defproject url64 "1.0.0"
+(defproject url64 "1.0.0-SNAPSHOT"
   :description "url64 is a library to generate really unique url friendly ID based on UUID"
   :url "https://github.com/8protons/url64"
   :license {:name "Eclipse Public License"
