@@ -19,4 +19,4 @@
 
 (defn generate-id []
   (let [uuid (bytes-to-base64-str (uuid-as-byte-array))]
-    (clojure.string/replace (clojure.string/replace uuid #"[\+\/]" "-") #"==$" "")))
+    (str/replace uuid #"[\=\+\/]" {'"+" "-" '"/" "_", '"=" ""})))

@@ -12,7 +12,7 @@ user=> (url64.core/generate-id)
 leiningen:
 
 ```
-[url64 "1.0.0-SNAPSHOT"]
+[url64 "1.0.1-SNAPSHOT"]
 ```
 
 ## License
